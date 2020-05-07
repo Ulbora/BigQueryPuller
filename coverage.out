@@ -1,0 +1,16 @@
+mode: set
+github.com/Ulbora/BigQueryPuller/mockPuller.go:19.38,21.2 1 1
+github.com/Ulbora/BigQueryPuller/mockPuller.go:24.96,26.2 1 1
+github.com/Ulbora/BigQueryPuller/mockPuller.go:29.54,31.2 1 1
+github.com/Ulbora/BigQueryPuller/mockPuller.go:34.54,36.2 1 1
+github.com/Ulbora/BigQueryPuller/puller.go:27.42,29.2 1 1
+github.com/Ulbora/BigQueryPuller/puller.go:32.100,37.18 5 1
+github.com/Ulbora/BigQueryPuller/puller.go:51.2,51.13 1 1
+github.com/Ulbora/BigQueryPuller/puller.go:37.18,38.7 1 1
+github.com/Ulbora/BigQueryPuller/puller.go:38.7,41.28 3 1
+github.com/Ulbora/BigQueryPuller/puller.go:44.4,44.18 1 1
+github.com/Ulbora/BigQueryPuller/puller.go:41.28,42.10 1 1
+github.com/Ulbora/BigQueryPuller/puller.go:44.18,46.5 1 1
+github.com/Ulbora/BigQueryPuller/puller.go:48.8,50.3 1 0
+github.com/Ulbora/BigQueryPuller/puller.go:55.58,57.2 1 1
+github.com/Ulbora/BigQueryPuller/puller.go:60.58,62.2 1 1
